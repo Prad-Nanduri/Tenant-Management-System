@@ -27,7 +27,6 @@ The tenant can search and filter properties, view property details, send an emai
 - React.js
 - Tailwind CSS
 - Vite.js
-- npm
 - MongoDB
 - Cloudinary
 - Ethereal Email
