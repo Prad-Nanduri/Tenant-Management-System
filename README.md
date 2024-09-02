@@ -1,5 +1,6 @@
 ****
 # Real Estate Rental and Tenant Management System 
+![Rental Management System](https://github.com/user-attachments/assets/c2004ab6-4f02-44a9-83ec-8e9b98465be9)
 
 Full-stack real estate rental and tenant management system. A web application that allows two types of USERS to use the application. The two types of users are the OWNER and the TENANT.
 
